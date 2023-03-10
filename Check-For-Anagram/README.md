@@ -1,5 +1,7 @@
 # Check for Anagram
 
+![Difficulty](https://img.shields.io/badge/-EASY-blue)
+
 ## C++
 [Solution](https://leetcode.com/problems/valid-anagram/submissions/908409316/)
 
